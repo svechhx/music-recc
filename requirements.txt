@@ -1,14 +1,4 @@
-# Core framework
-streamlit==1.46.1
-
-# Machine learning
+streamlit==1.26.0
 scikit-learn==1.4.2
-pandas==2.2.2
-numpy==1.26.4
-
-# Optional: for file handling, charts, or visuals
-matplotlib==3.8.4
-seaborn==0.13.2
-
-# NLP (if you're doing tokenization)
-nltk==3.8.1
+pandas
+numpy
